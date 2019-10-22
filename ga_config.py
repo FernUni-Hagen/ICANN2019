@@ -188,7 +188,7 @@ best_dir = model_dir + "ga_best_model/"
 
 # Specify data retrieval function
 # Adjust dimensions of input and output layer accordingly (above)
-data_retrieval_fn = ga_input.load_mnist_data
+data_retrieval_fn = ga_input.load_data_mnist
 
 # Specify optimizer. Possible values are 'GRADIENTDESCENT', 'MOMENTUM', 'RMSPROP', 'ADAGRAD', 'ADAM'.
 optimizer = 'MOMENTUM'
