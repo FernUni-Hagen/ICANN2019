@@ -1,5 +1,5 @@
 # ICANN2019
-Code complementing the research article "Compute-Efficient Neural Network Architecture Optimization by a Genetic Algorithm", accepted at ICANN 2019
+Code complementing the research article ["Compute-Efficient Neural Network Architecture Optimization by a Genetic Algorithm"](https://link.springer.com/content/pdf/10.1007%2F978-3-030-30484-3_32.pdf), accepted at [ICANN 2019](https://e-nns.org/icann2019/).
 
 # File Overview
 - `ga_config.py`: This module contains the genetic algorithm's configuration, to be edited by the user.
