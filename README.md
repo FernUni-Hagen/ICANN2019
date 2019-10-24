@@ -9,3 +9,10 @@ instrument for the evaluation of nets in the genetic algorithm.
 - `ga_genotype.py`: This module contains the classes implementing the genetic algorithm's genotype.
 - `ga_input.py`: This module provides functions that deliver input data for the estimator, function of choice must be specified in the configuration file.
 - `ga_main.py`: This module serves as the genetic algorithm's main component, implementing initialization, selection, population update, and logging capabilities.
+- `package_list.txt`: This file contains a list of packages installed in the test environment and  exported from anaconda.
+
+# Execution
+To run the genetic algorithm:
+```
+python ga_main.py
+```
